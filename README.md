@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasturi Nihtin</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="(https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin-kasturi&label=Profile%20views&color=0e75b6&style=flat" alt="nithin-kasturi" /> </p>
 
 - 🌱 I’m currently learning **Devops**
