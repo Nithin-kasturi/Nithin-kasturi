@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasturi Nihtin</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-[![MasterHead](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)](https://nithin1.hashnode.dev)
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin-kasturi&label=Profile%20views&color=0e75b6&style=flat" alt="nithin-kasturi" /> </p>
 
