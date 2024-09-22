@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasturi Nihtin</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)"
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin-kasturi&label=Profile%20views&color=0e75b6&style=flat" alt="nithin-kasturi" /> </p>
 
 - 🌱 I’m currently learning **Devops**
@@ -19,7 +19,6 @@ img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nithin1.hasnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nithin1.hasnode.dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nithin-kasturi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithin-kasturi" height="30" width="40" /></a>
 </p>
 
