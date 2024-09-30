@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kasturi Nithin</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<!-- MasterHead Image -->
 <p align="center">
   <a href="https://portfolio-pi-one-12.vercel.app/">
     <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="MasterHead" />
   </a>
 </p>
 
-<!-- Right-side Coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
 
 <!-- Profile Views -->
