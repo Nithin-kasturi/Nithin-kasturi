@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kasturi Nithin</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer .</h3>
 
 <p align="center">
   <a href="https://portfolio-pi-one-12.vercel.app/">
