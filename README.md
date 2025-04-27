@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://nithin1.hashnode.dev/)
 
-- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Devops**
 
 - 📫 How to reach me **nithinkasturi8@gmail.com**
 
